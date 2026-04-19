@@ -1,157 +1,152 @@
-# ────────────────────────────────────────────
+<div align="center">
 
-# NETFLIX-INSPIRED
+<sub>Dev-Chandan404 / Netflix-Homepage</sub>
 
-# Static Streaming UI Clone
+# 🎬 Netflix Homepage — Streaming UI Clone 🎬
 
-# ────────────────────────────────────────────
+### *Dark Theme. Movie Browsing. Binge-Worthy Design.*
 
-> A Netflix-style landing page built using HTML and CSS.
-> Designed to practice modern layout techniques and visual replication
-> of a real-world streaming platform interface.
+<br/>
 
-──────────────────────────────────────────────
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF5722?style=for-the-badge&logo=githubpages&logoColor=white)](https://dev-chandan404.github.io/Netflix-Homepage/)
+[![Star on GitHub](https://img.shields.io/badge/STAR_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Chandan404/Netflix-Homepage)
+[![Report Bug](https://img.shields.io/badge/REPORT_BUG-ff69b4?style=for-the-badge&logo=bugsnag&logoColor=white)](https://github.com/Dev-Chandan404/Netflix-Homepage/issues)
 
-PROJECT OVERVIEW
+<br/>
 
-──────────────────────────────────────────────
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
+[![MIT License](https://img.shields.io/badge/License-MIT-gray?style=for-the-badge)](LICENSE)
 
-This project recreates the look and feel of a popular streaming
-service homepage. It focuses entirely on UI structure and styling,
-allowing developers to understand how large-scale media platforms
-design their landing experiences.
+<br/>
 
-This is a static clone — no authentication, no streaming, no backend.
+[![Commits](https://img.shields.io/github/commit-activity/t/Dev-Chandan404/Netflix-Homepage?style=flat-square&label=commits)](https://github.com/Dev-Chandan404/Netflix-Homepage/commits)
+[![Repo size](https://img.shields.io/github/repo-size/Dev-Chandan404/Netflix-Homepage?style=flat-square)](https://github.com/Dev-Chandan404/Netflix-Homepage)
+[![Stars](https://img.shields.io/github/stars/Dev-Chandan404/Netflix-Homepage?style=flat-square&color=ffd700)](https://github.com/Dev-Chandan404/Netflix-Homepage/stargazers)
 
-Built for learning layout, responsiveness, and design precision.
+<br/>
 
-──────────────────────────────────────────────
+<a href="https://dev-chandan404.github.io/Netflix-Homepage/">
+  <img src="https://api.screenshotone.com/take?url=https://dev-chandan404.github.io/Netflix-Homepage/&viewport_width=1280&viewport_height=720&format=jpg&image_quality=90" alt="Netflix Homepage Clone Preview" width="90%" />
+</a>
 
-TECH STACK
+*A Netflix-style movie browsing UI — dark theme, category filters, search & interactive cards*
 
-──────────────────────────────────────────────
+</div>
 
-HTML5    → Semantic structure
-CSS3     → Styling, Flexbox/Grid layout, responsiveness
+---
 
-No JavaScript.
-No frameworks.
-No build tools.
+## ✨ About the Project
 
-Runs directly in the browser.
+> A **Netflix-style movie browsing homepage** built with HTML, CSS, and JavaScript. This project replicates the iconic streaming platform UI — from the cinematic dark-themed hero banner to scrollable content rows, category filters, a live search bar, and interactive hover-effect movie cards.
 
-──────────────────────────────────────────────
+This project is the ultimate test of **dark UI design**, **responsive layout techniques**, and **real-world streaming interface patterns** — all without a single framework.
 
-PROJECT STRUCTURE
+---
 
-──────────────────────────────────────────────
+## 🎯 Key Features
 
-Netflix-inspired/
-│
-├── index.html        # Main landing page
-├── style.css         # All visual styling
-│
-└── assets/
-├── images/       # Posters, backgrounds, thumbnails
-└── icons/        # UI elements
+| | Feature | Description |
+|---|---|---|
+| 🎬 | **Netflix-Style Hero** | Cinematic full-width banner with backdrop overlay and CTA buttons |
+| 🔍 | **Search Functionality** | Live search bar to filter through movie titles |
+| 🏷️ | **Category Filters** | Browse movies by genre — just like the real thing |
+| 🃏 | **Interactive Movie Cards** | Hover effects revealing movie details and actions |
+| 🌑 | **Dark Theme Interface** | Authentic Netflix dark UI with red accent colour system |
+| 📱 | **Fully Responsive** | Seamless experience across desktop, tablet, and mobile |
 
-Minimal structure for clarity and easy modification.
+---
 
-──────────────────────────────────────────────
+## 🛠️ Built With
 
-FEATURES
+<div align="center">
 
-──────────────────────────────────────────────
+| HTML5 | CSS3 | JavaScript |
+|-------|------|------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/> |
 
-[✔] Netflix-style hero banner layout
-[✔] Content rows with poster-style cards
-[✔] Dark-themed streaming interface
-[✔] Responsive layout using CSS
-[✔] Hover-based visual effects
-[✔] Clean typography and spacing system
+</div>
 
-The goal is visual accuracy, not functionality.
+---
 
-──────────────────────────────────────────────
+## 📂 Website Sections
 
-RUN LOCALLY
+| Section | Description |
+|---------|-------------|
+| 🧭 **Navbar** | Netflix-style top nav with logo, links, and search icon |
+| 🎬 **Hero Banner** | Full-screen cinematic feature with title, description & CTAs |
+| 🏷️ **Category Filters** | Genre tabs to sort and browse by movie category |
+| 🎞️ **Content Rows** | Horizontally scrollable rows of poster-style movie cards |
+| 🃏 **Movie Cards** | Interactive cards with hover reveal — rating, genre, actions |
+| 📬 **Footer** | Links, language selector, and platform info |
 
-──────────────────────────────────────────────
+---
 
-Clone the repository:
+## 🚀 Getting Started
 
-```
-git clone https://github.com/Dev-Chandan404/Netflix-inspired.git
-```
+No installation. No build step. Just clone and open.
 
-Navigate into the folder:
+```bash
+# Clone the repo
+git clone https://github.com/Dev-Chandan404/Netflix-Homepage.git
+cd Netflix-Homepage
 
-```
-cd Netflix-inspired
-```
-
-Open the project:
-
-```
+# Open directly in your browser
 open index.html
+
+# Or serve locally
+npx serve .
+# → http://localhost:3000
 ```
 
-No installation required.
+---
 
-──────────────────────────────────────────────
+## 📁 Project Structure
 
-LEARNING OBJECTIVES
+```
+Netflix-Homepage/
+├── 📂 images/          # Movie posters, banners & thumbnails
+├── index.html          # Full page — structure, styles & scripts
+└── README.md
+```
 
-──────────────────────────────────────────────
+---
 
-This project helps you understand:
+## 🔭 Roadmap & Possible Extensions
 
-• How streaming platforms structure their UI
-• Creating dark-themed interfaces using CSS
-• Using Flexbox/Grid for horizontal scrolling layouts
-• Designing hero sections with background overlays
-• Building responsive media-style cards
-• Replicating real-world designs from scratch
+- [ ] Connect to TMDB API for real movie data
+- [ ] Add JavaScript-powered content row sliders
+- [ ] Implement video preview on card hover
+- [ ] Build a login / signup UI flow
+- [ ] Add a watchlist with localStorage persistence
+- [ ] Convert into a React + API full streaming clone
 
-──────────────────────────────────────────────
+---
 
-FUTURE IMPROVEMENTS
+> ⚠️ **Disclaimer:** This is an educational UI clone built for learning and practice only. It is not affiliated with or endorsed by Netflix or any streaming platform.
 
-──────────────────────────────────────────────
+---
 
-[ ] Add JavaScript for sliders and interactions
-[ ] Implement video previews
-[ ] Create authentication UI
-[ ] Connect to movie API (e.g., TMDB)
-[ ] Convert into React-based streaming clone
+<div align="center">
 
-──────────────────────────────────────────────
+## 📄 License
 
-DISCLAIMER
+Distributed under the **MIT License**. See `LICENSE` for more information.
 
-──────────────────────────────────────────────
+<br/>
 
-This project is for educational purposes only.
-It is a UI recreation and is not affiliated with any real platform.
+✨ **Let's Connect** ✨
 
-──────────────────────────────────────────────
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.chandankumar404@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Chandan404)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://chandan404.netlify.app/)
 
-AUTHOR
+<br/>
 
-──────────────────────────────────────────────
+⭐ **If you like this project, please give it a star!** ⭐
 
-Chandan
-Frontend Development Practice Project
+*Made with ❤️ by **Chandan Kumar***
 
-──────────────────────────────────────────────
-
-LICENSE
-
-──────────────────────────────────────────────
-
-Open for learning, customization, and experimentation.
-
-──────────────────────────────────────────────
-
-💡 This project is for learning and front-end development practice.
-──────────────────────────────────────────────
+</div>
