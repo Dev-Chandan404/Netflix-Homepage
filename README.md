@@ -29,7 +29,7 @@
 <br/>
 
 <a href="https://dev-chandan404.github.io/Netflix-Homepage/">
-<img src="https://i.ibb.co/j9dgqc3G/netflix.png" alt="netflix"  width="90%">
+<img src="https://i.ibb.co/j9dgqc3G/netflix.png" alt="netflix"  width="70%">
 </a>
 
 *A Netflix-style movie browsing UI — dark theme, category filters, search & interactive cards*
